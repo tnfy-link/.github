@@ -3,10 +3,6 @@
 [![GitHub license](https://img.shields.io/github/license/tnfy-link/backend)](https://github.com/tnfy-link/.github/blob/master/LICENSE)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Ftnfy.link)](https://tnfy.link)
 
-<p align="center">
-  <img src="assets/logo.png" alt="tnfy.link logo" width="200">
-</p>
-
 - [tnfy.link](#tnfylink)
   - [🚀 Features](#-features)
   - [🛠 Tech Stack](#-tech-stack)
