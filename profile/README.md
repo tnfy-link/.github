@@ -4,6 +4,7 @@
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Ftnfy.link)](https://tnfy.link)
 
 - [tnfy.link](#tnfylink)
+  - [🌐 Usage](#-usage)
   - [🚀 Features](#-features)
   - [🛠 Tech Stack](#-tech-stack)
   - [🤝 Contributing](#-contributing)
@@ -11,6 +12,12 @@
 
 A high-performance URL shortener service built with Go, using modern technologies and best practices. This service provides fast and reliable URL shortening capabilities with Redis-based storage.
 
+## 🌐 Usage
+
+The tnfy.link service can be accessed in two ways:
+
+1. **Web Interface**: Visit [tnfy.link](https://tnfy.link) to use the service through our user-friendly web interface.
+2. **API**: Access the service programmatically via our API at [api.tnfy.link](https://api.tnfy.link/v1/docs).
 
 ## 🚀 Features
 
